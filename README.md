@@ -29,7 +29,7 @@ Check out our wireframes in Figma [here](https://www.figma.com/design/bxg0JO3C62
 
 ### UW Marketplace
 Role: Full Stack Developer
-Developed a web application for University of Washington students to buy and sell secondhand items like textbooks, furniture, and sports gear.
+- Developed a web application for University of Washington students to buy and sell secondhand items like textbooks, furniture, and sports gear.
 
 [Demo Site](https://uofwa-marketplace.web.app)
 
@@ -52,5 +52,6 @@ Developed a web application for University of Washington students to buy and sel
 - OWASP Top 10
 
 ## Contact Me
-- Email: jgrover1@uw.edu
-- LinkedIn: www.linkedin.com/in/jasmine-grover
+- Email: [jgrover1@uw.edu](mailto:jgrover1@uw.edu)
+- LinkedIn: [linkedin.com/in/jasmine-grover](www.linkedin.com/in/jasmine-grover)
+- Resume: [Click here to view](https://docs.google.com/document/d/1RB8jJ0Lo9bCBh1WCjIMAN6z8UuwB7L-Tsk4CRiCh-Zg/edit?usp=sharing)
