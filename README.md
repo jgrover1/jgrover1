@@ -34,10 +34,23 @@ Developed a web application for University of Washington students to buy and sel
 [Demo Site](https://uofwa-marketplace.web.app)
 
 ## Skills
+###Programming:
 - Java
-- Figma
 - Javascript
 - HTML/CSS
+- SQL
+
+###Frameworks & Tools:
 - Firebase
 - React
 - Git
+- Docker
+  
+- ###Security:
+- Risk Management
+- Threat Modeling
+- OWASP Top 10
+
+## Contact Me
+- Email: jgrover1@uw.edu
+- LinkedIn: www.linkedin.com/in/jasmine-grover
