@@ -46,7 +46,7 @@ Role: Full Stack Developer
 - Git
 - Docker
   
-- ### Security:
+### Security:
 - Risk Management
 - Threat Modeling
 - OWASP Top 10
