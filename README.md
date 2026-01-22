@@ -1,4 +1,4 @@
-## Hi there, I'm Jasmine! 👋
+# Hi there, I'm Jasmine! 👋
 As an aspiring security engineer, my work is centered around data justice and human-centered design to strive for solutions that are inclusive.
 
 ### About
