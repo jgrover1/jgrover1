@@ -2,7 +2,7 @@
 As an aspiring security engineer, my work is centered around data justice and human-centered design to strive for solutions that are inclusive.
 
 ## About
-
+I am currently an Informatics student at the University of Washington with a focus on cybersecurity and information assurance.
 
 ## Projects
 ### Securing the AI Workflow: A Practical Analysis of Attack Vectors and Mitigations in the Model Context Protocol (MCP)
@@ -27,3 +27,4 @@ Developed a web application for University of Washington students to buy and sel
 - CSS
 - Firebase
 - React
+- Git
