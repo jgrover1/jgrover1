@@ -1,21 +1,18 @@
 ## Hi there, I'm Jasmine! 👋
+As an aspiring security engineer, my work is centered around data justice and human-centered design to strive for solutions that are inclusive.
 
 ### About
-As an aspiring security engineer, my work is centered around data justice and human-centered design to ensure that cybersecurity solutions are inclusive.
+
 
 ### Projects
+#### Securing the AI Workflow: A Practical Analysis of Attack Vectors and Mitigations in the Model Context Protocol (MCP)
+Analyze security architecture of Model Context Protocol (MCP) to identify its reliance on implicit trust creates attack surfaces for AI agents. Created a comprehensive threat model of MCP architecture by identifying vulnerabilies in the data exchange between hosts (LLMs) and servers (local resources).
 
-<!--
-**jgrover1/jgrover1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Campus Reservation & Scheduling Platform
+Created a centralized platform designed to solve fragmentation of the University of Washington's room reservation ecosystem as students currently have to navigate atleast five disconnected instances of Mazevo, Google Calendar, and when2meet which leads to operational inefficiencies.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- Java
+- Python
+- Figma
+- 
