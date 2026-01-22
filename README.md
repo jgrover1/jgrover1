@@ -2,14 +2,14 @@
 As an aspiring security engineer, my work is centered around data justice and human-centered design to strive for solutions that are inclusive.
 
 ## About
-I am currently an Informatics student at the University of Washington with a focus on cybersecurity and information assurance. My background bridges the gap between technical vulnerability research and sociotechnical ethics. I believe that effective protection begins with understanding the humans that are behind the screen, aiming for security measures that empower users rather than excluding them.
+I am currently an Informatics student at the University of Washington with a focus on Cybersecurity and Information Assurance. My background bridges the gap between technical vulnerability research and sociotechnical ethics. I believe that effective protection begins with understanding the humans that are behind the screen and aim for security measures that empower users rather than exclude them.
 
 ## Projects
 
 ### UW Capstone: SilverGuard (Ongoing)
 Role: Product Manager
 - Leading a cross-functional team to develop a cybersecurity and fraud prevention tool that is designed for seniors (65 years and older) which is a population that is overlooked in traditional security models.
-- Responsible for defining product vision, roadmap, and the core features based on field research into social engineering patterns and vulnerability online.
+- Responsible for defining product vision, roadmap, and the core features based on field research into social engineering patterns and online vulnerability.
 
 ### Securing the AI Workflow: A Practical Analysis of Attack Vectors and Mitigations in the Model Context Protocol (MCP)
 Role: Security Researcher
@@ -17,13 +17,15 @@ Role: Security Researcher
 - Created a comprehensive threat model of MCP architecture by identifying vulnerabilies in the data exchange between hosts (LLMs) and servers (local resources).
 - Recreated common attack vectors such as tool shadowing and command injection using FastMCP and Python.
 
+Read about this project [here](https://drive.google.com/file/d/1hkymmvTvFJMtnL8Dx-kxP6o9nKIbcKI5/view?usp=sharing).
+
 ### Campus Reservation & Scheduling Platform (CRISP)
 Role: UX Researcher
-- Created a centralized platform designed to solve fragmentation of the University of Washington's room reservation ecosystem as students currently have to navigate atleast five disconnected instances of Mazevo, Google Calendar, and when2meet which leads to operational inefficiencies.
+- Created a centralized platform designed to solve fragmentation of the University of Washington's room reservation ecosystem which led to operational inefficiencies.
 - Spearheaded the empirical investigation by conducting surveys with 8+ student leaders and RSO officers to identify friction points in the event lifecycle.
 - Applied value sensitive design principles to ensure the platform balanced autonomy of RSO leaders with the accountability and oversight required by administrative staff.
 
-Check out our wireframes prototyped in Figma [here](https://www.figma.com/design/bxg0JO3C62Siz3AHzYOYXg/CRISP-Prototype?node-id=0-1&t=2gz8hNskpPcgx5SW-1).
+Check out our wireframes in Figma [here](https://www.figma.com/design/bxg0JO3C62Siz3AHzYOYXg/CRISP-Prototype?node-id=0-1&t=2gz8hNskpPcgx5SW-1).
 
 ### UW Marketplace
 Role: Full Stack Developer
@@ -33,11 +35,9 @@ Developed a web application for University of Washington students to buy and sel
 
 ## Skills
 - Java
-- Python
 - Figma
 - Javascript
-- HTML
-- CSS
+- HTML/CSS
 - Firebase
 - React
 - Git
