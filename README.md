@@ -1,5 +1,9 @@
 ## Hi there, I'm Jasmine! 👋
 
+### About
+As an aspiring security engineer, my work is centered around data justice and human-centered design to ensure that cybersecurity solutions are inclusive.
+
+### Projects
 
 <!--
 **jgrover1/jgrover1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
