@@ -11,7 +11,7 @@ Analyzed security architecture of Model Context Protocol (MCP) to identify its r
 #### Campus Reservation & Scheduling Platform (CRSP)
 Created a centralized platform designed to solve fragmentation of the University of Washington's room reservation ecosystem as students currently have to navigate atleast five disconnected instances of Mazevo, Google Calendar, and when2meet which leads to operational inefficiencies. Spearheaded the empirical investigation by conducting surveys with 8+ student leaders and RSO officers to identify friction points in the event lifecycle. Applied value sensitive design principles to ensure the platform balanced autonomy of RSO leaders with the accountability and oversight required by administrative staff.
 
-Wireframes (https://www.figma.com/design/bxg0JO3C62Siz3AHzYOYXg/CRISP-Prototype?node-id=0-1&t=2gz8hNskpPcgx5SW-1)
+[Wireframes](https://www.figma.com/design/bxg0JO3C62Siz3AHzYOYXg/CRISP-Prototype?node-id=0-1&t=2gz8hNskpPcgx5SW-1)
 
 #### UW Marketplace
 
