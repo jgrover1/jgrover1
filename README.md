@@ -34,19 +34,19 @@ Role: Full Stack Developer
 [Demo Site](https://uofwa-marketplace.web.app)
 
 ## Skills
-###Programming:
+### Programming:
 - Java
 - Javascript
 - HTML/CSS
 - SQL
 
-###Frameworks & Tools:
+### Frameworks & Tools:
 - Firebase
 - React
 - Git
 - Docker
   
-- ###Security:
+- ### Security:
 - Risk Management
 - Threat Modeling
 - OWASP Top 10
