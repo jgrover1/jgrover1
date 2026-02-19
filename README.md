@@ -2,7 +2,7 @@
 As an aspiring security engineer, my work is centered around data justice and human-centered design to strive for solutions that are inclusive.
 
 ### About
-I'm an Informatics student at the University of Washington with a focus in Cybersecurity and Information Assurance graduating in June 2026. Before UW, I spent years in retail and logistics which are roles that taught me how to interact with people and systems under pressure. I am a firm believer that security should empower people, not exclude them. Through my work I aim to create a digital world where safety is accessible to everyone, regardless of their technical background.
+I'm an Informatics student at the University of Washington with a focus in Cybersecurity and Information Assurance, graduating in June 2026. Before UW, I spent years in retail and logistics which are roles that taught me how to interact with people and systems under pressure. I am a firm believer that security should empower people, not exclude them. Through my work I aim to create a digital world where safety is accessible to everyone, regardless of their technical background.
 
 ### Projects
 
