@@ -37,7 +37,7 @@ Role: Full Stack Developer
 ## Skills
 | Programming | Frameworks & Tools | Security & Design |
 | :--- | :--- | :--- |
-| • Java <br> • JavaScript <br> • HTML/CSS <br> • SQL <br> • **Python** | • Firebase <br> • React <br> • Git <br> • **Docker** | • Risk Management <br> • Threat Modeling <br> • OWASP Top 10 <br> • **Wireshark** |
+| - Java <br> - JavaScript <br> - HTML/CSS <br> - SQL <br> - Python | - Firebase <br> - React <br> - Git <br> - Docker | - Risk Management <br> - Threat Modeling <br> - OWASP Top 10 <br> - Wireshark |
 
 ## Certifications
 - CompTIA Security+ (SY0-701) | Expected March 2026
