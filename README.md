@@ -7,21 +7,18 @@ I'm an Informatics student at the University of Washington with a focus in Cyber
 ### Projects
 
 #### UW Capstone: SilverGuard (Ongoing)
-Role: Product Manager
-- Leading a cross-functional team to develop a cybersecurity and fraud prevention tool that is designed for seniors (65 years and older) which is a population that is overlooked in traditional security models.
+- As the Product Manager, I am leading a cross-functional team to develop a cybersecurity and fraud prevention tool that is designed for seniors (65 years and older) which is a population that is overlooked in traditional security models.
 - Responsible for defining product vision, roadmap, and the core features based on field research into social engineering patterns and online vulnerability.
 
 #### Securing the AI Workflow: A Practical Analysis of Attack Vectors and Mitigations in the Model Context Protocol (MCP)
-Role: Security Researcher
-- Analyzed security architecture of Model Context Protocol (MCP) to identify its reliance on implicit trust creates new remote code execution attack surfaces for AI agents. 
+- As a Security Researcher, I analyzed security architecture of Model Context Protocol (MCP) to identify its reliance on implicit trust creates new remote code execution attack surfaces for AI agents. 
 - Created a comprehensive threat model of MCP architecture by identifying vulnerabilies in the data exchange between hosts (LLMs) and servers (local resources).
 - Recreated common attack vectors such as tool shadowing and command injection using FastMCP and Python.
 
 Read more about this project [here](https://drive.google.com/file/d/1hkymmvTvFJMtnL8Dx-kxP6o9nKIbcKI5/view?usp=sharing) + MCP server attack recreation [video demo](https://www.youtube.com/watch?v=cVuQaCafVHw)
 
 #### UW HusKey Manager
-Role: Application Security Engineer
-- Performed application security testing on a Dockerized PHP password manager using OWASP ZAP to identify vulnerabilities in authentication and access control.
+- As an Application Security Engineer, I performed application security testing on a Dockerized PHP password manager using OWASP ZAP to identify vulnerabilities in authentication and access control.
 - Remediated SQL injection vulnerabilities using parameterized queries and strengthened input/output handling to mitigate XSS.
 - Hardened infrastructure by deploying CA-signed TLS certificates in a Dockerized Nginx environment and integrated Loggly for centralized security monitoring.
 
