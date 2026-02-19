@@ -5,7 +5,6 @@ As an aspiring security engineer, my work is centered around data justice and hu
 I'm an Informatics student at the University of Washington with a focus in Cybersecurity and Information Assurance, graduating in June 2026. Before UW, I spent years in retail and logistics which are roles that taught me how to interact with people and systems under pressure. Through my work I aim to create a digital world where safety is accessible to everyone, regardless of their technical background.
 
 ### Projects
-
 #### UW Capstone: SilverGuard (Ongoing)
 - As the Product Manager, I am leading a cross-functional team to develop a cybersecurity and fraud prevention tool that is designed for seniors (65 years and older) which is a population that is overlooked in traditional security models.
 - Responsible for defining product vision, roadmap, and the core features based on field research into social engineering patterns and online vulnerability.
