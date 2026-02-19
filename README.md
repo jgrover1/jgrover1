@@ -11,7 +11,7 @@ I'm an Informatics student at the University of Washington with a focus in Cyber
 
 #### Securing the AI Workflow: A Practical Analysis of Attack Vectors and Mitigations in the Model Context Protocol (MCP)
 - As a Security Researcher, I analyzed security architecture of Model Context Protocol (MCP) to identify its reliance on implicit trust creates new remote code execution attack surfaces for AI agents. 
-- Created a comprehensive threat model of MCP architecture by identifying vulnerabilies in the data exchange between hosts (LLMs) and servers (local resources).
+- Created a comprehensive threat model of MCP architecture by identifying vulnerabilities in the data exchange between hosts (LLMs) and servers (local resources).
 - Recreated common attack vectors such as tool shadowing and command injection using FastMCP and Python.
 
 Read more about this project [here](https://drive.google.com/file/d/1hkymmvTvFJMtnL8Dx-kxP6o9nKIbcKI5/view?usp=sharing) + MCP server attack recreation [video demo](https://www.youtube.com/watch?v=cVuQaCafVHw)
