@@ -20,24 +20,18 @@ Role: Security Researcher
 Read more about this project [here](https://drive.google.com/file/d/1hkymmvTvFJMtnL8Dx-kxP6o9nKIbcKI5/view?usp=sharing). <br>
 Attack recreation video demo: [MCP Server Attack Recreation](https://www.youtube.com/watch?v=cVuQaCafVHw)
 
-### Campus Reservation & Scheduling Platform (CRISP)
-Role: UX Researcher
-- Created a centralized platform designed to solve fragmentation of the University of Washington's room reservation ecosystem which led to operational inefficiencies.
-- Spearheaded the empirical investigation by conducting surveys with 8+ student leaders and RSO officers to identify friction points in the event lifecycle.
-- Applied value sensitive design principles to ensure the platform balanced autonomy of RSO leaders with the accountability and oversight required by administrative staff.
-
-Check out our wireframes in Figma [here](https://www.figma.com/design/bxg0JO3C62Siz3AHzYOYXg/CRISP-Prototype?node-id=0-1&t=2gz8hNskpPcgx5SW-1).
-
-### UW Marketplace
-Role: Full Stack Developer
-- Developed a web application for University of Washington students to buy and sell secondhand items like textbooks, furniture, and sports gear.
-
-[Demo Site](https://uofwa-marketplace.web.app)
+### UW HusKey Manager
+Role: Application Security Engineer
+- Performed security analysis on a Dockerized PHP password manager application to identify vulnerabilities in authentication, authorization, and data transmission.
+- Captured and analyzed network traffic with Wireshark to verify that user credentials were encrypted in transit after TLS implementation.
+- Conducted dynamic application security testing using OWASP ZAP to uncover injection flaws, XSS, and insecure configurations.
+- Remediated SQL injection vulnerabilities using parameterized queries and strengthened input/output handling to mitigate XSS.
+- Implemented HTTPS by generating and deploying a CA-signed TLS certificate within a Dockerized Nginx environment.
 
 ## Skills
 | Programming | Frameworks & Tools | Security & Design |
 | :--- | :--- | :--- |
-| • Java <br> • JavaScript <br> • HTML/CSS <br> • SQL <br> • Python | • Firebase <br> • React <br> • Git <br> • Docker | • Risk Management <br> • Threat Modeling <br> • OWASP Top 10 <br> • Wireshark |
+| • Java <br> • JavaScript <br> • HTML/CSS <br> • SQL <br> • Python <br> • PHP | • VS Code <br> • Git <br> • Docker | • Risk Management <br> • Threat Modeling <br> • OWASP Top 10 <br> • Wireshark |
 
 ## Certifications
 - CompTIA Security+ (SY0-701) | Expected March 2026
