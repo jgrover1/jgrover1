@@ -21,11 +21,9 @@ Attack recreation video demo: [MCP Server Attack Recreation](https://www.youtube
 
 ### UW HusKey Manager
 Role: Application Security Engineer
-- Performed security analysis on a Dockerized PHP password manager application to identify vulnerabilities in authentication, authorization, and data transmission.
-- Captured and analyzed network traffic with Wireshark to verify that user credentials were encrypted in transit after TLS implementation.
-- Conducted dynamic application security testing using OWASP ZAP to uncover injection flaws, XSS, and insecure configurations.
+- Performed application security testing on a Dockerized PHP password manager using OWASP ZAP to identify vulnerabilities in authentication and access control.
 - Remediated SQL injection vulnerabilities using parameterized queries and strengthened input/output handling to mitigate XSS.
-- Implemented HTTPS by generating and deploying a CA-signed TLS certificate within a Dockerized Nginx environment.
+- Hardened infrastructure by deploying CA-signed TLS certificates in a Dockerized Nginx environment and integrated Loggly for centralized security monitoring.
 
 ## Skills
 | Programming | Frameworks & Tools | Security & Design |
