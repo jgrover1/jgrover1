@@ -35,24 +35,9 @@ Role: Full Stack Developer
 [Demo Site](https://uofwa-marketplace.web.app)
 
 ## Skills
-### Programming:
-- Java
-- Javascript
-- HTML/CSS
-- SQL
-- Python
-
-### Frameworks & Tools:
-- Firebase
-- React
-- Git
-- Docker
-  
-### Security:
-- Risk Management
-- Threat Modeling
-- OWASP Top 10
-- Wireshark
+| Programming | Frameworks & Tools | Security & Design |
+| :--- | :--- | :--- |
+| • Java <br> • JavaScript <br> • HTML/CSS <br> • SQL <br> • **Python** | • Firebase <br> • React <br> • Git <br> • **Docker** | • Risk Management <br> • Threat Modeling <br> • OWASP Top 10 <br> • **Wireshark** |
 
 ## Certifications
 - CompTIA Security+ (SY0-701) | Expected March 2026
