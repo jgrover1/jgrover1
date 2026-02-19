@@ -11,13 +11,12 @@ Role: Product Manager
 - Leading a cross-functional team to develop a cybersecurity and fraud prevention tool that is designed for seniors (65 years and older) which is a population that is overlooked in traditional security models.
 - Responsible for defining product vision, roadmap, and the core features based on field research into social engineering patterns and online vulnerability.
 
-### Securing the AI Workflow: A Practical Analysis of Attack Vectors and Mitigations in the Model Context Protocol (MCP)
+### [Securing the AI Workflow: A Practical Analysis of Attack Vectors and Mitigations in the Model Context Protocol (MCP)](https://drive.google.com/file/d/1hkymmvTvFJMtnL8Dx-kxP6o9nKIbcKI5/view?usp=sharing)
 Role: Security Researcher
 - Analyzed security architecture of Model Context Protocol (MCP) to identify its reliance on implicit trust creates new remote code execution attack surfaces for AI agents. 
 - Created a comprehensive threat model of MCP architecture by identifying vulnerabilies in the data exchange between hosts (LLMs) and servers (local resources).
 - Recreated common attack vectors such as tool shadowing and command injection using FastMCP and Python.
 
-Read more about this project [here](https://drive.google.com/file/d/1hkymmvTvFJMtnL8Dx-kxP6o9nKIbcKI5/view?usp=sharing). <br>
 Attack recreation video demo: [MCP Server Attack Recreation](https://www.youtube.com/watch?v=cVuQaCafVHw)
 
 ### UW HusKey Manager
