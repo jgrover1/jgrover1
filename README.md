@@ -18,6 +18,7 @@ Role: Security Researcher
 - Recreated common attack vectors such as tool shadowing and command injection using FastMCP and Python.
 
 Read more about this project [here](https://drive.google.com/file/d/1hkymmvTvFJMtnL8Dx-kxP6o9nKIbcKI5/view?usp=sharing).
+Attack recreation demo: [MCP Server Attack Recreation](https://www.youtube.com/watch?v=cVuQaCafVHw)
 
 ### Campus Reservation & Scheduling Platform (CRISP)
 Role: UX Researcher
@@ -39,6 +40,7 @@ Role: Full Stack Developer
 - Javascript
 - HTML/CSS
 - SQL
+- Python
 
 ### Frameworks & Tools:
 - Firebase
@@ -50,6 +52,10 @@ Role: Full Stack Developer
 - Risk Management
 - Threat Modeling
 - OWASP Top 10
+- Wireshark
+
+## Certifications
+- CompTIA Security+ (SY0-701) | Expected March 2026
 
 ## Contact Me
 - Email: [jgrover1@uw.edu](mailto:jgrover1@uw.edu)
