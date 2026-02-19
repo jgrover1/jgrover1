@@ -31,7 +31,7 @@ Role: Application Security Engineer
 ## Skills
 | Programming | Frameworks & Tools | Security & Design |
 | :--- | :--- | :--- |
-| • Java <br> • JavaScript <br> • HTML/CSS <br> • SQL <br> • Python <br> • PHP | • VS Code <br> • Git <br> • Docker | • Risk Management <br> • Threat Modeling <br> • OWASP Top 10 <br> • Wireshark |
+| • Python <br> • PHP <br> • JavaScript <br> • HTML/CSS <br> • SQL <br> | • VS Code <br> • Git <br> • Docker | • Risk Management <br> • Threat Modeling <br> • OWASP Top 10 <br> • OWASP Zap <br> • Wireshark |
 
 ## Certifications
 - CompTIA Security+ (SY0-701) | Expected March 2026
