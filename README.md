@@ -17,8 +17,8 @@ Role: Security Researcher
 - Created a comprehensive threat model of MCP architecture by identifying vulnerabilies in the data exchange between hosts (LLMs) and servers (local resources).
 - Recreated common attack vectors such as tool shadowing and command injection using FastMCP and Python.
 
-Read more about this project [here](https://drive.google.com/file/d/1hkymmvTvFJMtnL8Dx-kxP6o9nKIbcKI5/view?usp=sharing).
-Attack recreation demo: [MCP Server Attack Recreation](https://www.youtube.com/watch?v=cVuQaCafVHw)
+Read more about this project [here](https://drive.google.com/file/d/1hkymmvTvFJMtnL8Dx-kxP6o9nKIbcKI5/view?usp=sharing). <br>
+Attack recreation video demo: [MCP Server Attack Recreation](https://www.youtube.com/watch?v=cVuQaCafVHw)
 
 ### Campus Reservation & Scheduling Platform (CRISP)
 Role: UX Researcher
