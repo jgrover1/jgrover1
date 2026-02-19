@@ -2,7 +2,7 @@
 As an aspiring security engineer, my work is centered around data justice and human-centered design to strive for solutions that are inclusive.
 
 ### About
-I'm an Informatics student at the University of Washington with a focus in Cybersecurity and Information Assurance graduating in June 2026. Before getting into Informatics at UW, I spent years in retail and logistics which are roles that taught me how to interact with people and systems under pressure. I am a firm believer that security should empower people, not exclude them. Through my work I aim to create a digital world where safety is accessible to everyone, regardless of their technical background.
+I'm an Informatics student at the University of Washington with a focus in Cybersecurity and Information Assurance graduating in June 2026. Before UW, I spent years in retail and logistics which are roles that taught me how to interact with people and systems under pressure. I am a firm believer that security should empower people, not exclude them. Through my work I aim to create a digital world where safety is accessible to everyone, regardless of their technical background.
 
 ### Projects
 
@@ -17,7 +17,7 @@ Role: Security Researcher
 - Created a comprehensive threat model of MCP architecture by identifying vulnerabilies in the data exchange between hosts (LLMs) and servers (local resources).
 - Recreated common attack vectors such as tool shadowing and command injection using FastMCP and Python.
 
-Read more about this project [here](https://drive.google.com/file/d/1hkymmvTvFJMtnL8Dx-kxP6o9nKIbcKI5/view?usp=sharing). | [MCP server attack recreation video demo](https://www.youtube.com/watch?v=cVuQaCafVHw)
+Read more about this project [here](https://drive.google.com/file/d/1hkymmvTvFJMtnL8Dx-kxP6o9nKIbcKI5/view?usp=sharing) + [MCP server attack recreation video demo](https://www.youtube.com/watch?v=cVuQaCafVHw)
 
 #### UW HusKey Manager
 Role: Application Security Engineer
