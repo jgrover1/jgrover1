@@ -34,6 +34,4 @@ Role: Application Security Engineer
 - CompTIA Security+ (SY0-701) | Expected March 2026
 
 ### Contact Me
-- Email: [jgrover1@uw.edu](mailto:jgrover1@uw.edu)
-- LinkedIn: [Click here to view](https://www.linkedin.com/in/jasmine-grover)
-- Resume: [Click here to view](https://docs.google.com/document/d/1RB8jJ0Lo9bCBh1WCjIMAN6z8UuwB7L-Tsk4CRiCh-Zg/edit?usp=sharing)
+Email: [jgrover1@uw.edu](mailto:jgrover1@uw.edu) | LinkedIn: [Click here to view](https://www.linkedin.com/in/jasmine-grover) | Resume: [Click here to view](https://docs.google.com/document/d/1RB8jJ0Lo9bCBh1WCjIMAN6z8UuwB7L-Tsk4CRiCh-Zg/edit?usp=sharing)
